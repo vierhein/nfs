@@ -1,0 +1,11 @@
+version: 5
+cache:
+  accessControl:
+    anonymousLevel: "readwrite"
+uiAccess:
+  type: "open"
+
+
+
+url:
+  http://gradle-build-cache.default.svc.cluster.local:5071/cache
